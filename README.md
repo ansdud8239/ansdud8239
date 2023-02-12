@@ -9,5 +9,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
-  
+ <br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula)
 </div>
