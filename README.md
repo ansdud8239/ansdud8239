@@ -11,6 +11,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
  <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact" width="350" height="200">
+<img src="https://ghchart.rshah.org/ccccc/ansdud8239" width="100%"/>
 </div>
 
-<img src="https://ghchart.rshah.org/ccccc/ansdud8239"/>
