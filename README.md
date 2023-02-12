@@ -12,4 +12,4 @@
  <br><br>
   
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula">
