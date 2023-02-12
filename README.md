@@ -13,4 +13,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact">
 </div>
 
-<img src="http://mazandi.herokuapp.com/api?handle={https://github.com/ansdud8239}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?https://github.com/ansdud8239&handle={조무농}&theme=warm"/>
