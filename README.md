@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
- <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula" width="400" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact"width="400" height="200">
+ <br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact">
 </div>
 
-<img src="http://mazandi.herokuapp.com/api?handle=ansdud8239&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle={https://github.com/ansdud8239}&theme=warm"/>
