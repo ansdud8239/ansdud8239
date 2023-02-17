@@ -6,6 +6,8 @@
 <!--
 <div align=center><img src="https://user-images.githubusercontent.com/60773767/218306580-cadd9caa-d9bd-4c92-9f5b-0cfb871e18c3.gif"/></div>
 -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
+ <br><br>
 <br>
 <div align=center>
 <h2>:rainbow: My-Skill :rainbow:</h2>
@@ -13,8 +15,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
 <br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=black"/>
- <br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact" width="350" height="200"><br><br>
 <img src="https://ghchart.rshah.org/238223/ansdud8239" width="100%"/>
 </div>
