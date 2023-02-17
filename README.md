@@ -6,7 +6,7 @@
 <!--
 <div align=center><img src="https://user-images.githubusercontent.com/60773767/218306580-cadd9caa-d9bd-4c92-9f5b-0cfb871e18c3.gif"/></div>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula" width="350" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact" width="350" height="200"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ansdud8239&show_icons=true&theme=dracula" width="300" height="200">    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansdud8239&layout=compact" width="300" height="200"><br><br>
 <br>
 <div align=center>
 <h2>:rainbow: My-Skill :rainbow:</h2>
